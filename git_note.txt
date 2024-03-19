@@ -1,0 +1,3 @@
+GIT (Global information tracker)
+        centralized and distributed type of version control systems 
+        
